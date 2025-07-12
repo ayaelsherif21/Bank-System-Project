@@ -163,7 +163,7 @@ public:
             if (amount <= balance && amount > 0)
             {
                 balance -= amount;
-                recipient.deposit(amount);
+                recipient.amount += amount;
                 cout << " Transferred successfully " << amount << " to " << recipient.getName() << endl;
             }
 
