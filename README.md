@@ -78,6 +78,3 @@ Feel free to fork the repository and submit a pull request with improvements or 
 
 **📄 License**
 This project is open-source and available for learning and educational purposes.
-
-Rewrite it to sound more academic or more casual
-Just tell me 
